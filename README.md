@@ -2,7 +2,7 @@
 
 Sistema de administración de una veterinaria con MySQL, permite administrar a las mascotas y a sus propietarios.
 
-### Control de personas:
+### Administración de personas:
 
 ---
 
@@ -16,7 +16,7 @@ Sistema de administración de una veterinaria con MySQL, permite administrar a l
 
 [![pt2-sistema-Veterinaria-cesarjub.gif](https://i.postimg.cc/Vvf4wZNx/pt2-sistema-Veterinaria-cesarjub.gif)](https://postimg.cc/k6HWFcKs)
 
-### Control de pacientes (mascotas):
+### Administración de pacientes (mascotas):
 
 ---
 
