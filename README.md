@@ -1,6 +1,6 @@
 # 🐱 Sistema de veterinaria
 
-Sistema de control de mascotas de una veterinaria con MySQL.
+Sistema de administración de una veterinaria con MySQL, permite administrar a las mascotas y a sus propietarios.
 
 ### Control de personas:
 
@@ -12,7 +12,7 @@ Sistema de control de mascotas de una veterinaria con MySQL.
 [![pt1-sistema-Veterinaria.gif](https://i.postimg.cc/Kjwpxrgx/pt1-sistema-Veterinaria.gif)](https://postimg.cc/SYLfG9rv)
 
 - Modificar persona.
-- Eliminar persona (se eliminara sus mascotas asignadas).
+- Eliminar persona (se eliminaran sus mascotas asignadas).
 
 [![pt2-sistema-Veterinaria-cesarjub.gif](https://i.postimg.cc/Vvf4wZNx/pt2-sistema-Veterinaria-cesarjub.gif)](https://postimg.cc/k6HWFcKs)
 
