@@ -4,7 +4,7 @@ Sistema de administración de una veterinaria con MySQL, permite administrar a l
 
 ### Administración de personas:
 
----
+----
 
 - Agregar personas.
 - Permite filtrar la tabla por ID o género.
