@@ -1,6 +1,6 @@
 # 🐱 Sistema de veterinaria
 
-Sistema de control de mascotas de una veterinaria.
+Sistema de control de mascotas de una veterinaria con MySQL.
 
 ### Control de personas:
 
